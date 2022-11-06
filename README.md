@@ -5,7 +5,7 @@ Team Name: Core Four
 
 | Name | BITS_ID |
 | ------------- | ------------- |
-| Tripti  | 2021SP93063  |
-| Maadhavi  | 2021SP93031  |
-| Prashant  | 2021SP93016  |
-| Zaid  | 2021SP93037  |
+| Tripti Barsaiyan | 2021SP93063  |
+| Maadhavi Suvarana | 2021SP93031  |
+| Prashant Mishra | 2021SP93016  |
+| Mohammad Zaid  | 2021SP93037  |
